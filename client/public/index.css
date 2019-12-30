@@ -1,0 +1,29 @@
+* {
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: 0;
+    padding: 0;
+    border: none;
+    display: inline-block;
+    box-sizing: border-box;
+    user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -webkit-user-select: none;
+}
+
+head {
+    display: none;
+}
+
+body {
+    width: 100%;
+    display: block;
+}
+
+#root {
+    width: 100%;
+    display: block;
+}
