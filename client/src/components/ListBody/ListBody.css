@@ -1,0 +1,13 @@
+.listBody {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: space-around;
+    z-index: 1;
+}
+
+.content {
+    padding: 10px 20px;
+    font-size: 0.9vw;
+    box-sizing: content-box;
+}
