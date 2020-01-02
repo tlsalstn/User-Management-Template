@@ -1,0 +1,10 @@
+{
+    "development": {
+        "database": "user-manager",
+        "username": "root",
+        "password": "root",
+        "host": "localhost",
+        "dialect": "mysql",
+        "logging": false
+    }
+}
