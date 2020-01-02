@@ -1,0 +1,15 @@
+.listHeader {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: space-around;
+    z-index: -1;
+}
+
+.title {
+    padding: 10px 20px;
+    font-size: 0.9vw;
+    font-weight: bold;
+    box-sizing: content-box;
+}
