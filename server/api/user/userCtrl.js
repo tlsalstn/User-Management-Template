@@ -25,7 +25,7 @@ exports.getUsers = async (req, res) => {
         result = {
             status: 200,
             message: msg,
-            data: users
+            users
         };
 
         res.status(200).json(result);
